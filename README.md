@@ -45,7 +45,20 @@ Follow these steps to set up and run the project on your local machine:
 - MySQL (or your preferred database system)
 
 # 📸 Screenshots
-- screenshot 1  ![Screenshot 1](https://github.com/dinesh1615/CODTECH-Task1/assets/110489987/68ce433f-8421-45ff-9c04-c6dbc763e1a1)
+- screenshot 1
+- ![Screenshot 1](https://github.com/dinesh1615/CODTECH-Task1/assets/110489987/68ce433f-8421-45ff-9c04-c6dbc763e1a1)
+- screenshot 2
+
+- screenshot 3
+
+- screenshot 4
+
+- screenshot 5
+
+- screenshot 6
+
+- screenshot 7
+- 
 
 
 # 🤝 Contributing
