@@ -45,7 +45,7 @@ Follow these steps to set up and run the project on your local machine:
 - MySQL (or your preferred database system)
 
 # 📸 Screenshots
-- Screenshot 1
+- screenshot 1.png
 
 # 🤝 Contributing
 - Contributions are welcome! Feel free to submit issues and pull requests.
